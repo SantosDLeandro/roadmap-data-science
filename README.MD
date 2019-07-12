@@ -1,1 +1,1 @@
-http://www.cienciaedados.com/
+The Four V’s of Big Datahttp://www.ibmbigdatahub.com/infographic/four-vs-big-dataData Science Centralhttp://www.datasciencecentral.comKD Nuggetshttp://www.kdnuggets.comPredictive Analytics Todayhttp://www.predictiveanalyticstoday.comCiência e Dadoshttp://www.cienciaedados.comO Estatísticohttp://oestatistico.com.brR-bloggershttp://www.r-bloggers.comRPubshttps://rpubs.comJupyter Notebook Onlinehttps://try.jupyter.orgThe Flood of Big Datahttp://www.ibmbigdatahub.com/infographic/flood-big-data
